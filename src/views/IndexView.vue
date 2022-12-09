@@ -31,7 +31,7 @@
         <!-- 底部 -->
         <div class="xiaohongshu">
           <img
-          src="../assets/logo.png"
+          src="logo.png"
             width="40"
             height="40"
             style="border-radius: 5px"
@@ -44,7 +44,7 @@
           <div class="top-title">
             <div class="top-title__main-title">
               <img
-                src="../assets/logo.png"
+                src="logo.png"
                 width="50"
                 height="50"
                 style="border-radius: 5px"
